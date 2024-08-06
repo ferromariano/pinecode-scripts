@@ -1,6 +1,9 @@
-# koncorde
+# koncorde multi timeframe
 
-Para el que no sabe que es : https://www.blai5.net/blai5-koncorde-que-es-y-como-usarlo/
+- Para el que no sabe que es koncorde aca: https://www.blai5.net/blai5-koncorde-que-es-y-como-usarlo/
+- esta version te deja ver simultaneamente varios timeframe
+- para resumir la informacion solo se muestra linea marron y media roja
+- y se le agrego un histograma
 
 
 #### Code:
